@@ -80,3 +80,5 @@ typings/
 dist
 
 .DS_Store
+connection.json
+Org1Wallet/
